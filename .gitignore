@@ -1,0 +1,8 @@
+
+# ignore
+11장.iml
+.idea
+.targets
+
+# asteric
+*.log
